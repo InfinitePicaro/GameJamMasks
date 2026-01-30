@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Introduction"
             }
           }
         ]
@@ -185,6 +185,12 @@
   },
   "active": "a133e5b6943deb2a",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Personnages et Masques/👤Joueur.md",
+    "Personnages et Masques/🎭 Masque - Invité.md",
+    "Introduction.md",
+    "Chemins.canvas",
+    "Personnages et Masques/💵 Masque - Baron de l'Art.md",
+    "Personnages et Masques/🔫 Masque - Anti-Joueur.md",
+    "💀 L'Arcane Sans Nom.md"
   ]
 }
