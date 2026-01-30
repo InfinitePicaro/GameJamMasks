@@ -1,10 +1,40 @@
 {
 	"nodes":[
-		{"id":"ff871e015ca1d149","type":"text","text":"Le joueur","x":-320,"y":-30,"width":180,"height":60},
-		{"id":"a77bb370135bdf8b","type":"text","text":"Masque 2","x":180,"y":-120,"width":250,"height":60},
-		{"id":"62b24f21e383eea1","type":"text","text":"Masque 3","x":180,"y":0,"width":250,"height":60},
-		{"id":"fcaeb5e0df3e2e62","type":"text","text":"L'anti joueur","x":180,"y":180,"width":250,"height":60},
-		{"id":"04f3c9019adf7c50","type":"text","text":"Le joueur identité 2","x":-320,"y":60,"width":180,"height":60}
+		{"id":"81a1b207f4e61e51","type":"file","file":"Personnages/Masque 1.md","x":-451,"y":-183,"width":400,"height":77},
+		{"id":"892ed6ab71ae7f1d","type":"file","file":"Personnages/Masque 2.md","x":231,"y":240,"width":400,"height":98},
+		{"id":"c7bff51cf50e52fd","type":"file","file":"Personnages/Anti joueur ou masque 3.md","x":231,"y":403,"width":400,"height":119},
+		{"id":"e7727c9a1ca7c219","type":"text","text":"Nice to meet you in this lovely evenig my good sir. If I may, who are you? It is the first time I have ever seen such a mask in this **==art==** event.","x":20,"y":-217,"width":299,"height":146},
+		{"id":"fef69d640ce66db2","type":"text","text":"I am [] ","x":680,"y":-308,"width":250,"height":60},
+		{"id":"5d71e9e645528be2","type":"file","file":"Mots/Mot 1.md","x":1016,"y":-335,"width":121,"height":55},
+		{"id":"b6968e5878722c8d","x":1016,"y":-248,"width":121,"height":65,"type":"file","file":"Mots/Mot 2.md"},
+		{"id":"9dfdd2d81adf8327","type":"file","file":"Personnages/Joueur 2.md","x":431,"y":-71,"width":151,"height":60},
+		{"id":"9af5daeaef3b4e5b","type":"file","file":"Personnages/Joueur.md","x":431,"y":-217,"width":151,"height":50},
+		{"id":"3d6d929c9a687d2a","type":"text","text":"I am [] ","x":660,"y":-69,"width":250,"height":60},
+		{"id":"ac4e7fbb9dfb7220","type":"file","file":"Mots/Mot 1.md","x":996,"y":-96,"width":121,"height":55},
+		{"id":"6d19422a04ea9e9b","type":"file","file":"Mots/Mot 2.md","x":996,"y":-9,"width":121,"height":65},
+		{"id":"721331a4ce0b932b","type":"file","file":"Personnages/Masque 1.md","x":1240,"y":56,"width":400,"height":104},
+		{"id":"f495c39eab5cd0fd","type":"file","file":"Personnages/Masque 1.md","x":1240,"y":-91,"width":400,"height":115},
+		{"id":"3c92c6c3c9326817","type":"file","file":"Personnages/Masque 1.md","x":1240,"y":-391,"width":400,"height":83},
+		{"id":"92861d9cebde7721","type":"file","file":"Personnages/Masque 1.md","x":1240,"y":-250,"width":400,"height":83},
+		{"id":"2b726fc45bf79e73","type":"text","text":"Oh great ...","x":1840,"y":-179,"width":299,"height":146}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"18ce5d855eccd321","fromNode":"81a1b207f4e61e51","fromSide":"right","toNode":"e7727c9a1ca7c219","toSide":"left"},
+		{"id":"7dcce302a50cc89c","fromNode":"e7727c9a1ca7c219","fromSide":"right","toNode":"9af5daeaef3b4e5b","toSide":"left"},
+		{"id":"dc1cae15f780ea46","fromNode":"fef69d640ce66db2","fromSide":"right","toNode":"5d71e9e645528be2","toSide":"left"},
+		{"id":"e54b6a785e3255ed","fromNode":"fef69d640ce66db2","fromSide":"right","toNode":"b6968e5878722c8d","toSide":"left"},
+		{"id":"4174656f29794110","fromNode":"5d71e9e645528be2","fromSide":"right","toNode":"3c92c6c3c9326817","toSide":"left"},
+		{"id":"3d543f701355f122","fromNode":"9af5daeaef3b4e5b","fromSide":"right","toNode":"fef69d640ce66db2","toSide":"left"},
+		{"id":"4d351888886de785","fromNode":"e7727c9a1ca7c219","fromSide":"right","toNode":"9dfdd2d81adf8327","toSide":"left"},
+		{"id":"53dba51bcb7a34a7","fromNode":"3d6d929c9a687d2a","fromSide":"right","toNode":"ac4e7fbb9dfb7220","toSide":"left"},
+		{"id":"cef31ce3137b2b85","fromNode":"3d6d929c9a687d2a","fromSide":"right","toNode":"6d19422a04ea9e9b","toSide":"left"},
+		{"id":"6d63465d7cdef12c","fromNode":"9dfdd2d81adf8327","fromSide":"right","toNode":"3d6d929c9a687d2a","toSide":"left"},
+		{"id":"e2e9765e032a30d5","fromNode":"6d19422a04ea9e9b","fromSide":"right","toNode":"721331a4ce0b932b","toSide":"left"},
+		{"id":"4969381b568176d1","fromNode":"ac4e7fbb9dfb7220","fromSide":"right","toNode":"f495c39eab5cd0fd","toSide":"left"},
+		{"id":"7a7ed60e539e47a3","fromNode":"b6968e5878722c8d","fromSide":"right","toNode":"92861d9cebde7721","toSide":"left"},
+		{"id":"f203feb1fc9843cb","fromNode":"3c92c6c3c9326817","fromSide":"right","toNode":"2b726fc45bf79e73","toSide":"left"},
+		{"id":"3b9c52a08fe6d936","fromNode":"92861d9cebde7721","fromSide":"right","toNode":"2b726fc45bf79e73","toSide":"left"},
+		{"id":"33510eabba15008e","fromNode":"f495c39eab5cd0fd","fromSide":"right","toNode":"2b726fc45bf79e73","toSide":"left"},
+		{"id":"0db1a809bc2a48f3","fromNode":"721331a4ce0b932b","fromSide":"right","toNode":"2b726fc45bf79e73","toSide":"left"}
+	]
 }

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 241,
-                  "y": 152,
-                  "zoom": 0
+                  "x": 1488.6838776491206,
+                  "y": -63.841048721992195,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -188,7 +188,16 @@
   },
   "active": "84b96dba098f5c92",
   "lastOpenFiles": [
-    "Masks/Welcome.md",
-    "Untitled.canvas"
+    "Mots/Mot 2.md",
+    "Untitled.canvas",
+    "Personnages/Anti joueur ou masque 3.md",
+    "Personnages/Joueur 2.md",
+    "Personnages/Masque 2.md",
+    "Personnages/Masque 1.md",
+    "Personnages/Joueur.md",
+    "Personnages",
+    "Mots/Mot 1.md",
+    "Mots",
+    "Masks/Welcome.md"
   ]
 }
